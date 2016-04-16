@@ -1,3 +1,12 @@
+
+#照片共享网站 photographer.io
+
+http://www.oschina.net/p/photographer
+
+照片共享网站photographer.io作者Robert May宣布在MIT许可证下开源网站源代码，代码托管在GitHub上。Robert May表示，很高兴他觉得有些东西值得开源，认为向同行开源有助于改进网站代码质量和安全。为了网站能稳定运行，过去两个月几乎每个晚上的时间都花在了上面。
+
+
+
 # Photographer.io
 
 * Photographer.io is an open-source photo sharing community, no longer in production.
